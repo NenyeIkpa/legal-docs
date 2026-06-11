@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**App Name:** MyApp  
+**App Name:** Trybe  
 **Effective Date:** November 18, 2025
 
 MyApp (“we”, “our”, or “us”) values your privacy. This Privacy Policy explains how we collect, use, and protect your personal information when you use our mobile application.
